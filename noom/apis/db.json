@@ -1,0 +1,15 @@
+{
+  "mealDb": [
+    {
+      "mealChoice": "lunch",
+      "choices": "chciken",
+      "id": 1
+    },
+    {
+      "mealChoice": "dinner",
+      "choices": "salad, meat, potatoes",
+      "id": 2
+    }
+  ],
+  "resultsDb": []
+}
